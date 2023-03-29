@@ -1,4 +1,4 @@
-# -PowerShell-Get_FolderSize
+# 【PowerShell】Get_FolderSize
 フォルダサイズ/ファイル数のカウントを行う。また、コマンドの実行結果をlogとして保管する。
 
 ## 事前に必要となるもの
