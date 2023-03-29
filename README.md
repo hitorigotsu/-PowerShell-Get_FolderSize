@@ -9,7 +9,7 @@
 
 `$Target_Dir`には、サイズ取得対象となるフォルダを代入します。
 
-`$Log_File`には、`"C:\Users\Test_User\Desktop\Log\"`の部分をログを管理するフォルダ名に変更します。
+`$Log_File`は、`"C:\Users\Test_User\Desktop\Log\"`の部分をログを管理するフォルダ名に変更します。
 
 ## 実行結果
 スクリプトの実行結果は、ログを管理するフォルダ内に`YYYYMMDD_HHMMSS`方式で生成されます。
