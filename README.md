@@ -6,9 +6,9 @@
 
 ## 事前設定
 「Get_FolderSize.ps1」内の`$Target_Dir`と`$Log_File`に値を代入する必要があります。
-<br>
+
 `$Target_Dir`には、サイズ取得対象となるフォルダを代入します。
-<br>
+
 `$Log_File`には、`"C:\Users\Test_User\Desktop\Log\"`の部分をログを管理するフォルダ名に変更します。
 
 ## 実行結果
